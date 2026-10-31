@@ -1,0 +1,81 @@
+{
+  "code": "KIWU",
+  "title": "SMASH KIWU",
+  "school": "경인여대",
+  "fullName": "경인여자대학교",
+  "campusName": "경인여자대학교",
+  "tagline": "경인여대를 부셔 (시험기간 스트레스 해소)",
+  "description": "경인여자대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 경인여자대학교 3D 화면과 SMASH KIWU 제목",
+  "url": "https://hong-iron.github.io/SMASH-KIWU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 228046923
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.5480161,
+        126.7231418
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 정문 옆 나무와 잔디밭 자리로, 땅 위층 없이 지하 1층만 적힌 기록이라 사진에 서 있는 건물이 없다."
+    },
+    {
+      "at": [
+        37.5480345,
+        126.7223363
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 학교 안내도의 잔디운동장 자리로, 땅 위층 없이 지하 1층만 적힌 기록이라 사진에는 잔디만 보인다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "brick",
+      "wall": "#856258",
+      "glass": "#3e454a",
+      "frame": "#dcdedb"
+    },
+    "봉아관": {
+      "style": "brick",
+      "wall": "#846650",
+      "glass": "#3e454a",
+      "frame": "#e8e7e1"
+    },
+    "기념교회": {
+      "style": "brick",
+      "wall": "#957159",
+      "glass": "#3e454a",
+      "frame": "#e5e4df"
+    },
+    "미래관": {
+      "style": "brick",
+      "wall": "#775a44",
+      "glass": "#3e454a",
+      "frame": "#e4e3e1"
+    },
+    "스포토피아관": {
+      "style": "brick",
+      "wall": "#835a43",
+      "glass": "#3e454a",
+      "frame": "#d9dcd6"
+    },
+    "20주년기념관": {
+      "style": "glass",
+      "wall": "#e9eae6",
+      "glass": "#66696a",
+      "frame": "#a3a5a5"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
